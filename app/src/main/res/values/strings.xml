@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">valuta</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="bosniaBAM">BAM</string>
+    <string name="algeriaDZD">DZD</string>
+    <string name="israelNIS">NIS</string>
+    <string name="livanLBP">LBP</string>
+
+    <string name="bosnia">valuta</string>
+    <string name="algeria">valuta</string>
+    <string name="israel">Israel</string>
+    <string name="livan">Livan\nlbp</string>
+
+    <string name="flag">flag</string>
+</resources>
